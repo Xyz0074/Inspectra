@@ -57,6 +57,7 @@ pip install customtkinter psutil requests matplotlib Pillow
     - **Scan settings**: Choose port range, thread count, enable/disable CVE scan
     - **Progress page**: Visual scan updates
     - **Results dashboard**: With summaries, vulnerabilities, recommendations, and a button to open the report
+      (Each bottom section is scrollable)
 
 ---
 
@@ -91,5 +92,6 @@ pip install customtkinter psutil requests matplotlib Pillow
 ![op2](https://github.com/user-attachments/assets/adbd5bf2-7010-41b4-bc49-cd6ba3af1fb4)
 ![op3](https://github.com/user-attachments/assets/bdf26aef-5f87-4b32-85ad-f9694547d7b6)
 ![op4](https://github.com/user-attachments/assets/92b5ff8d-c78d-4f8e-ab9a-a773f0dffb1d)
-![op5](https://github.com/user-attachments/assets/0af43a63-ac54-496f-9662-da24899b8902)
-![op6](https://github.com/user-attachments/assets/1cd3c0bb-fe96-41ee-8a2e-9d2e93e0271a)
+![op5](https://github.com/user-attachments/assets/0a972c27-84d5-4f4f-962b-f74f0a45616c)
+![op6](https://github.com/user-attachments/assets/b0d5cc69-4c27-4283-9326-9905d97ad964)
+
